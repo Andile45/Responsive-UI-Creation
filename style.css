@@ -12,6 +12,7 @@
   padding: 5px;
   margin-top: 20px;
   font-size: larger;
+  cursor: pointer;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
 }
 .nav h1 {
   font-size: x-large;
+  cursor: pointer;
 }
 .paragraph p {
   font-size: larger;
@@ -181,4 +183,9 @@ footer {
   padding: 15px;
   display: flex;
   justify-content: space-between;
+  cursor: pointer;
+}
+footer a {
+  color: white;
+  text-decoration: none;
 }
