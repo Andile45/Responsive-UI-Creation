@@ -8,7 +8,7 @@ form table {
   /* margin: 20px auto; */
   border-collapse: separate;
   border-spacing: 10px;
-  background-color: rgb(163, 219, 163);
+  background-color: lightgrey;
   border-radius: 20px;
   padding: 29px;
   box-shadow: 0px 23px 32px -10px lightgrey;
@@ -29,7 +29,8 @@ input[type="tel"] {
 input[type="submit"] {
   padding: 10px 20px;
   border-radius: 10px;
-  background-color: rgb(163, 219, 163);
+  background-color:black;
+  color: white;
 
   box-shadow: 18px 20px 17px -10px rgba(0, 0, 0, 0.1);
 }
@@ -51,7 +52,7 @@ input[type="submit"] {
   /* margin: 20px auto; */
   border-collapse: separate;
   border-spacing: 10px;
-  background-color: rgb(163, 219, 163);
+  background-color: lightgrey;
   border-radius: 20px;
   padding: 20px;
   box-shadow: 0px 23px 32px -10px lightgrey;
@@ -59,7 +60,8 @@ input[type="submit"] {
 }
 header {
   text-align: center;
-  background-color: rgb(163, 219, 163);
+  background-color: black;
+  color: white;
   padding: 20px;
 }
 header p {
@@ -84,7 +86,8 @@ body {
 @media (max-width: 480px) {
  header {
   text-align: center;
-  background-color: rgb(163, 219, 163);
+  background-color: black;
+  color: white;
   padding: 20px;
   width: 100vh;
 }
