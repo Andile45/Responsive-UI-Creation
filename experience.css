@@ -1,0 +1,58 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f6fa;
+  color: #2f3640;
+}
+
+.experience-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #273c75;
+}
+
+.experience-card h2 {
+  margin: 0;
+  font-size: 24px;
+  color: #192a56;
+}
+
+.experience-card h4 {
+  margin: 5px 0 10px;
+  font-weight: normal;
+  color: #718093;
+}
+
+.duration-location {
+  font-size: 14px;
+  color: #7f8c8d;
+  margin-bottom: 20px;
+}
+
+.experience-details {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.experience-details li {
+  margin-bottom: 10px;
+}
+
+.skills {
+  background-color: #dcdde1;
+  padding: 10px;
+  border-left: 4px solid #273c75;
+  font-size: 14px;
+  border-radius: 4px;
+}
